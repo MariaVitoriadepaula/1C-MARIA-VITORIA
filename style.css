@@ -1,14 +1,21 @@
 .lista {
-
+font-size: 30;
    color:red;
-   font-size: 30;
+}   
+
+.imagem {
+   text-align: center;
+   background: black;
 }
 
+#destaque {
+   
 .minhalista{
    font-size; 40;
    color: blue;
    
 }
+
 
 #imagem {
    text-align:center;
